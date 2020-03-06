@@ -71,7 +71,6 @@ class Board extends React.Component {
 }
 
 class Game extends React.Component {
-    
     render() {
         return (
             <div className="game">
